@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 this is sample file
-=======
 this is user file 
 
 extra lines needed to be written 
->>>>>>> Stashed changes
