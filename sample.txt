@@ -1,7 +1,2 @@
 this is sample file 
-changes from otheres
-function fromDev(){
-  console.log("working"
-}
 
-google 
