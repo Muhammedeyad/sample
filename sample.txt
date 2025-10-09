@@ -1,14 +1,10 @@
 this is sample file 
 changes from otheres
-
-
-this is written by feature branch
-
 function fromDev(){
   console.log("working"
 }
 
-
+google 
 function code-base{
     console.log('fine')
 }
